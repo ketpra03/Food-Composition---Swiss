@@ -1,5 +1,5 @@
-Swiss Food Composition
-======================
+Food Composition -- Swiss
+=========================
 
 The Swiss Federal Food Safety and Veterinary Office ([FSVO](https://www.blv.admin.ch/blv/en/home.html)) has and maintain a [database](http://www.valeursnutritives.ch) of Swiss food composition. The database is available as a xslx file or through a webservice (more info [here](http://www.valeursnutritives.ch/request?xml=MessageData&xml=MetaData&xsl=Download&lan=en&pageKey=Start)).
 
